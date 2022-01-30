@@ -9,17 +9,17 @@ Klasa User:
   - openDatabase(char open_operation) - otwiera bazę danych, argumenty:
      - n - dołacza elementy do bazy dancyh
      - f - czyści bazę danych i następnie dodaje elementy
-	- isOpened() - sprawdza czy baza danych jest otwarta
-	- closeDatabase() - zamyka bazę danych 
-	- createDatabase() - tworzy bazę danych
+  - isOpened() - sprawdza czy baza danych jest otwarta
+  - closeDatabase() - zamyka bazę danych 
+  - createDatabase() - tworzy bazę danych
 
 Klasa Menu:
   - clear() - czyści konsole
-	- lMenu() - wyświetla menu dla zalogowanego użytkownika
-	- nMenu() - wyświetla menu dla niezalogowanego użytkownika
-	- header() - wyświetla nagłówek dla niezalogowanego użytkownika
-	- lHeader() -  wyświetla nagłówek dla zalogowanego użytkownika
-	- showMenu() - sprawdza czy użytkownik jest zalogowany i wybiera odpowiednie menu
+  - lMenu() - wyświetla menu dla zalogowanego użytkownika
+  - nMenu() - wyświetla menu dla niezalogowanego użytkownika
+  - header() - wyświetla nagłówek dla niezalogowanego użytkownika
+  - lHeader() -  wyświetla nagłówek dla zalogowanego użytkownika
+  - showMenu() - sprawdza czy użytkownik jest zalogowany i wybiera odpowiednie menu
 
 Klasa User:
   - findUser(string email) - znajduje użytkownika po emailu i zwraca o nim informacje w formacie struktury
