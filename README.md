@@ -42,3 +42,6 @@ Klasa User:
   - verify_password(std::string pass) - sprawdza dane hasło "pass" spełnia wymogi bezpiecznego hasła
   - verify_pin(std::string pin) - sprawdza czy format danego pinu "pin" jest poprawny 
   - genAccNum() - genereuje numer konta, wiekskzy o 1 od poprzedniego
+
+W razie problemów zamieszczam link do dysku google gdzie znajduje się cały projekt w rar'rze:
+https://drive.google.com/file/d/1fkl7muOhffQW6lroZJzO1lGoUNIN94pG/view?usp=sharing
