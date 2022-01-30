@@ -1,0 +1,22 @@
+1741.52
+test@test.com	+1.50	lody
+
+root@root.com	+69.69	haha
+
+root@root.com	+0.02	------
+
+root@root.com	+0.29	------
+
+root@root.com	+25	jedzenie
+
+root@root.com	+500	------
+
+root@root.com	-199.99	------
+
+root@root.com	+299.01	------
+
+root@root.com	+400	------
+
+root@root.com	+100	------
+
+zabka	9.99	heets
