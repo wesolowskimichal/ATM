@@ -1,0 +1,5 @@
+name	surname	email		passsword	PIN	data_urodzenia	numer_konta
+root	root	root@root.com	!QAZ2wsx123qweasdzxc	1234	18/06/2001	12345678999
+Michal	Wesolowski	michal.wesolov@gmail.com	!QAZ2wsx123qweasdzxc	1234	20/06/2001	12345679000
+Szymon	Wozny	szwoz2001@gmail.com	!QAZ2wsx123qweasdzxc	1234	06/11/2001	12345679001
+test	test	test@test.com	!QAZ2wsx123qweasdzxc	1234	01/01/2001	12345679002
