@@ -1,0 +1,58 @@
+595203.60
+test@test.com	+40.00	polecenie
+
+withdraw	-12.00	------
+insert	+12.00	------
+withdraw	-0.09	------
+insert	+0.69	oszczednosci
+withdraw	-0.01	------
+withdraw	-0.22	------
+michal.wesolov@gmail.com	-69.69	haha
+
+withdraw	-0.10	------
+withdraw	-0.10	test
+withdraw	-0.6	------
+michal.wesolov@gmail.com	-0.02	------
+
+withdraw	-0.69	------
+withdraw	-200	------
+withdraw	-0.69	------
+withdraw	-123.45	test3
+withdraw	-0.69	test2
+withdraw	-150.5	test1
+michal.wesolov@gmail.com	+0.62	------
+
+szwoz2001@gmail.com	-45.69	testtttttttttttttttttttttttttttttt
+
+michal.wesolov@gmail.com	-123	siemanko`yo`yo`yo
+
+michal.wesolov@gmail.com	-123	siemanko`yo`yo`yo
+
+michal.wesolov@gmail.com	-10	------
+
+michal.wesolov@gmail.com	-10	------
+
+michal.wesolov@gmail.com	-25	jedzenie
+
+michal.wesolov@gmail.com	-500	------
+
+michal.wesolov@gmail.com	+199.99	------
+
+michal.wesolov@gmail.com	+1	------
+
+michal.wesolov@gmail.com	-299.01	------
+
+michal.wesolov@gmail.com	-100	ruch
+
+michal.wesolov@gmail.com	-100	------
+
+michal.wesolov@gmail.com	-400	------
+
+szwoz2001@gmail.com	-100	------
+
+michal.wesolov@gmail.com	-100	------
+
+zabka	20	handel
+1@gmail.com	-100	------
+
+michal.wesolov@gmail.com	-100	------

@@ -1,0 +1,8 @@
+18.00
+michal.wesolov@gmail.com	-1.50	lody
+
+insert	+10.00	------
+root@root.com	-40.00	polecenie
+
+withdraw	-50.50	------
+insert	+100.00	pierwsze`pieniadze
