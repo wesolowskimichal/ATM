@@ -1,6 +1,6 @@
 # ATM
 System bankowy z funkcjami bankomatu. System opiera się na bazie danych, która opiera się na plikach tekstowych. Program ma swego rodzaju zaminne sesyjne, dzięki którym nie trzeba się znowu logować po wyłączeniu programu.
-Program napisany jest obiektowo. Każda klasa odpowiedzialna jest za obsługe czego innego:
+Program napisany jest z użyciuem obiektów. Każda klasa odpowiedzialna jest za obsługe czego innego:
   - User - zajmuje się opreracjami użytkownika, takimi jak robienie przelewów, wpłacanie pieniędzy, wypłacanie pieniędzy itp.
   - DBmanager - posiada komendy operujące na bazie danych np. otwiera daną bazę danych
   - Menu - tworzy header programu
